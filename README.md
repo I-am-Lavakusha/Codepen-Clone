@@ -1,2 +1,2 @@
 # Codepen-Clone
-A text editor using Reactjs
+A text editor using javascript 
